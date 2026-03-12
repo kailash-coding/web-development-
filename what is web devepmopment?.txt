@@ -5,5 +5,11 @@ from building simple static websites to complex, interactive web apps like inlin
 
 key areas of web development 
         area                                                  description
-    front-end    focuses on the user intarface- what people see and intyeract with in   
+    front-end       focuses on the user intarface- what people see and intyeract with in   
+   development      the browser. technologies include HTML, CSS, and JAVASCRIPT (plus framework like react pr vue)
+
+   bock-end         deals with the server-side-- handing data, database, and logic. 
+  development      common languages include node.js, python, php, java,or ruby.
+
+  
 
