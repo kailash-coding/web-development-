@@ -1,1 +1,9 @@
 what is web development?
+
+web development is the process of creating wensites or web applications that run on the internt. it invoives evetything 
+from building simple static websites to complex, interactive web apps like inline stores, social networks, or productivity tools
+
+key areas of web development 
+        area                                                  description
+    front-end    focuses on the user intarface- what people see and intyeract with in   
+
