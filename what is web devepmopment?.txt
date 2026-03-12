@@ -11,5 +11,8 @@ key areas of web development
    bock-end         deals with the server-side-- handing data, database, and logic. 
   development      common languages include node.js, python, php, java,or ruby.
 
+ full-stack        involves both front-end and back-end work-- development who do this 
+ development       are called full-stack development
+
   
 
