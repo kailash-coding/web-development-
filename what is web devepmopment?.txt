@@ -23,7 +23,14 @@ deplpyment
 # basic technologies:
   * html (hypertext markup language ) - the structure of the web page
   * css (cascading style sheets)- the styling and layout
-  * javaScript - makes the page interactive (sliders, forms, buttons,etc
+  * javaScript - makes the page interactive (sliders, forms, buttons,etc)
+
+# types of websites
+  * static websites- simple, fixed content ( like a portfolio)
+  * dynamic websites- content updates based on user interaction or database input (like soclal media or e-commerco)
+
+# commom tools & frameworks:
+
 
 
 
