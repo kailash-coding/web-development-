@@ -30,6 +30,13 @@ deplpyment
   * dynamic websites- content updates based on user interaction or database input (like soclal media or e-commerco)
 
 # commom tools & frameworks:
+  * vs code(code editor)
+  * git (version control)
+  *react,angular,vue(front-end frameworks)
+  *express, django, laravel (back-end frameworks)
+  * apls for connecting to ofter services (e.g,. goople maps)
+
+
 
 
 
