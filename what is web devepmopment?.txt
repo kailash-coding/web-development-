@@ -14,5 +14,13 @@ key areas of web development
  full-stack        involves both front-end and back-end work-- development who do this 
  development       are called full-stack development
 
+ datbase           storing and retrievingdata using aystems like MYSQL< postgreSQL, or MongoDB
+management
+
+devOps/           putting the website online and keeping it running smooth;y , often using services like githun, netify, heroku, or AWS
+deplpyment 
+
+
+
   
 
