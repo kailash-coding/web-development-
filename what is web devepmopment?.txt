@@ -20,6 +20,11 @@ management
 devOps/           putting the website online and keeping it running smooth;y , often using services like githun, netify, heroku, or AWS
 deplpyment 
 
+# basic technologies:
+  * html (hypertext markup language ) - the structure of the web page
+  * css (cascading style sheets)- the styling and layout
+  * javaScript - makes the page interactive (sliders, forms, buttons,etc
+
 
 
   
