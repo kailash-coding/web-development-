@@ -1,1 +1,13 @@
+ html (hypertext markup language) is the standard language used to create webpages. it structures the content and content tells the browser how to display text, image, links, and other elements
+
+ <!DOCTYPE html>
+ <html>
+  <head>
+   <title>page title </title>
+  </head>
+ <body>
+  <h1> this is a heading</h1>
+  <P> this is a paragraph </p>
+ </body>
+</html>
 
