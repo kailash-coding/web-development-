@@ -11,3 +11,10 @@
  </body>
 </html>
 
+
+ <!DOCTYPE html> : declares the document type
+ <html> : root elemment of the html document 
+<head> : contains metadata (e.g.,  title , stylrs, scripts)
+<title> : title of the document shown in the browser tab)
+ <body> : contains the visible content
+
