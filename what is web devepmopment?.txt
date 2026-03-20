@@ -29,7 +29,8 @@ deplpyment
   * static websites- simple, fixed content ( like a portfolio)
   * dynamic websites- content updates based on user interaction or database input (like soclal media or e-commerco)
 
-# commom tools & frameworks:
+
+# commom tools & frameworks:\
   * vs code(code editor)
   * git (version control)
   *react,angular,vue(front-end frameworks)
