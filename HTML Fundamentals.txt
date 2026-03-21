@@ -18,3 +18,5 @@
 <title> : title of the document shown in the browser tab)
  <body> : contains the visible content
 
+list of html tags
+
