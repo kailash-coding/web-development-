@@ -18,6 +18,8 @@
 <title> : title of the document shown in the browser tab)
  <body> : contains the visible content
 
+
+
 list of html tags
 
 * basic structure
@@ -28,6 +30,20 @@ list of html tags
    <head>              conainer for metadata
   <title>              title of the docoment 
   <body>               main content coniner 
+
+
+text fformatting
+    teg                                    description
+<h1>-<h6>             heading from largest to smallest
+<p>                   paragraph
+<br>                  line  break
+<hr>                  horizontal line
+<strong>              importal text (bold)
+<em>                  emphasized text (italic)
+<b>                   bold text
+<i>                   italic text 
+<u>                   underlined text
+<small>               smaller text
 
 
 
