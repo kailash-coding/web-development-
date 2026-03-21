@@ -20,3 +20,15 @@
 
 list of html tags
 
+* basic structure
+
+     tag                                     description
+   <!DOCTYPE>          defines the document type
+  <html>               root of an html document
+   <head>              conainer for metadata
+  <title>              title of the docoment 
+  <body>               main content coniner 
+
+
+
+
