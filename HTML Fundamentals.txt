@@ -44,6 +44,12 @@ text fformatting
 <i>                   italic text 
 <u>                   underlined text
 <small>               smaller text
+<mark>                highlighted
+<del>                 deleted text
+<ins>                 inserted text
+<sup>                 superscript
+<sub>                 subscript
+
 
 
 
