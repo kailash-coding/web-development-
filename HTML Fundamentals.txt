@@ -65,6 +65,17 @@ links and media
       <iframe>                    inline frame (embed another page)
 
 list
+    tag                                 description
+    <ul>                           unordered list
+    <ol>                          ordered list
+    <li>                           list item
+    <dl>                          description list
+    <dt>                          description term
+    <dd>                          description detail 
+
+
+tables 
+     tag                                 description
 
 
 
