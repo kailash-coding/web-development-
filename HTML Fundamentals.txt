@@ -50,6 +50,23 @@ text fformatting
 <sup>                 superscript
 <sub>                 subscript
 
+links   and media
+        tag                               description
+      <div>                        black-level container
+      <span>                       inline container
+
+links and media
+       tag                                description
+      <a>                         anchor (link)
+      <img>                       image  
+      <audio>                     embed sound
+      <video>                     embed video 
+      <source>                    source for media
+      <iframe>                    inline frame (embed another page)
+
+list
+
+
 
 
 
