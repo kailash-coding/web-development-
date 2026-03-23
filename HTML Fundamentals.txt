@@ -113,6 +113,16 @@ semantic tags
    <figcaption>         caption for a figure
    <time>               time/data information
 
+scripting and meta
+       tag                   descriptioin
+     <script>           javascript code
+    <noscipt>           fallback if js in disabled
+    <style>             css styles
+    <link>              external resources (e.g., css)
+    <meta>              metadata (charset, viewport, etc. )
+    <base>              base URL for relative links
+
+
 
 
  
