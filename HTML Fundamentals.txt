@@ -76,6 +76,16 @@ list
 
 tables 
      tag                                 description
+ <table>                     table
+<tr>                         table data/call
+<td>                         table header
+<thead>                         table head
+<tbody>                      table body
+<tfoot>                      table footer
+<caption>                    taable caption
+<col>                       column properties
+<colgroup>                  group of columns
+
 
 
 
