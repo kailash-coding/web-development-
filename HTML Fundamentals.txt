@@ -99,6 +99,22 @@ foms and inouts
 <lagend>                  caption for a <fielset>
 <datalist>                list of pre-defiuned options
 <output>                  result of a calculation
+
+semantic tags
+       tag                      description
+     <header>             page or section header
+    <footer>              footer foe a section 
+    <main>                main content
+    <nav>               navigantion link
+    <article>           self-contained content
+   <section>            section of cantent
+   <aside>              sidebar content
+   <figure>             figure with media
+   <figcaption>         caption for a figure
+   <time>               time/data information
+
+
+
  
 
 
