@@ -86,6 +86,21 @@ tables
 <col>                       column properties
 <colgroup>                  group of columns
 
+foms and inouts
+       tag                             descripttion
+   <from>                    from element
+  <input>                    input field
+ <label>                     label for input
+ <textarea>                    multi-line text input
+<butten>                      butten
+<select>                   drop-down list
+<option>                   option in alist 
+<fieldset>                group related  elements
+<lagend>                  caption for a <fielset>
+<datalist>                list of pre-defiuned options
+<output>                  result of a calculation
+ 
+
 
 
 
