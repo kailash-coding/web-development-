@@ -122,6 +122,17 @@ scripting and meta
     <meta>              metadata (charset, viewport, etc. )
     <base>              base URL for relative links
 
+other useful tags
+        tag                 description
+    <canvas>            graphics via javascript
+  <svg>                scalable vector graphics
+  <details>            expandable derails
+  <summary>            summary for <details>
+<template>             template for client-side content
+<progress>             progress bar
+<meter>                scalar measurement (e.g., disk usage)
+
+
 
 
 
