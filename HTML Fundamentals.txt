@@ -137,7 +137,16 @@ other useful tags
 
 
 EMMBEDDING OTHER MEDIA INTO HTML PAGES
-an 
+an <iframe> (short for inline frame ) is an HTML tag ised to embed another web page or 
+ resoure inside the current HTML document
+
+<iframe src="https://evample.com"width="600" height="400"<>/iframe>
+src: URL of the page you want to embed
+width and height: dimensions of the oframe in pixels
+
+common attributes
+      attribute                    description
+
 
 
 
