@@ -146,7 +146,14 @@ width and height: dimensions of the oframe in pixels
 
 common attributes
       attribute                    description
-
+     src                   URL of the document to embed
+    width, height          size of the iframe 
+     title                 accrssible label for screen readers
+     allowfullscreen       allows the oframe content to go fullscreen
+     loading="lazy"        improves perfomabce by loading on demand
+    sandbox                adds security restrictions to the ifeame
+   feameborder            controls border visibility (use css instead)
+   (deprecated)
 
 
 
