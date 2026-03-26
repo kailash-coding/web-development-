@@ -31,3 +31,26 @@ CSS( cascading style sheets ) is a language used to style an d layout HTML eleme
      * keeps styles in one plase for a single HTML file
      * not reusable across muitiple pages
 
+3. external CSS - styles are in a separate . css file
+HTML file
+ <!DOCTYPE html >
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+</body>
+   <p> this is styled by external CSS, <p/>
+</body>
+</html>
+
+styles.css file
+ p{
+   color: purple:
+   font-size: 22px:
+  }
+
+
+* best practice for large projects
+* reusable, clean, and easy to maintain
+* requlres extra file ( but that's a good thing a good hting in real projects)
+
