@@ -1,1 +1,5 @@
+CSS( cascading style sheets ) is a language used to style an d layout HTML elements on a web page - incliding 
+   colors, fonts, spacing, positioning, and responsiveness
 
+*three ways to appy css
+  1. inline css - style applied
