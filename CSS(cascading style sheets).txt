@@ -10,6 +10,7 @@ CSS( cascading style sheets ) is a language used to style an d layout HTML eleme
       * easy for quick tests or one-off styles
       * not reusable; clutters HTML
 
+
 2.  internal css - style written in a <style> tag inside the HTML <head>
   html
   copyedit
