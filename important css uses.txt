@@ -18,3 +18,9 @@ div {
     co;or: white;      /* text color */
     background: black ;   /* background color */
 }
+
+3 borders
+  /* Adds borders around elements */
+ .box {
+     border: 2px solid red;    /* width, style , and color */
+     border-radius: 10px;      /* rounded corners
