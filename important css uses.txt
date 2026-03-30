@@ -1,1 +1,6 @@
-
+1 text styling
+ /* Applies to text */
+p{ 
+ color: blue;   /* text color*/
+ font-size: 18px;    /* size of the text */
+ font-gamily: Arial, sans-serif;  /* font type*/
