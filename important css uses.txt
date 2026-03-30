@@ -10,7 +10,9 @@ p{
  text-decoration: underline; /* underline, none, line, line-thriugh */
  letter-spacing: underline;  /* underline, none, line-through */
  line-height: 1.5;     /* spacing between lines */
-}
+}  
+
+
 
 2 colors
 /* background and text colors */
@@ -19,8 +21,29 @@ div {
     background: black ;   /* background color */
 }
 
+
+
 3 borders
   /* Adds borders around elements */
  .box {
      border: 2px solid red;    /* width, style , and color */
      border-radius: 10px;      /* rounded corners
+     }
+
+
+4. helght and width
+.box{
+    width:300px;           /* horizontal size */
+    height: 150Px;       /* vertical size */
+    max-width: 100%;       /* responsive limit */
+    }
+
+'
+
+  
+ 
+
+
+
+
+
