@@ -39,6 +39,41 @@ div {
     }
 
 '
+ *  example in context (internal css)
+ <! DOCTYPE html>
+   <html>
+      <head>
+         <style>
+               .box {
+                color: white;
+                background-color: #3498db;
+                font-size: 20px;
+                font-family: 'Segoe Ul', sans-serif;
+                border: 2px solid #2980b9;
+                border-radius: 8px;
+                margin: 20px:
+                padding: 15px;
+                width: 300px;
+                height: 100px;
+                text-align: center;
+                }
+       </style>
+   </head>
+    <body>
+         <div class="box">
+          Hello, I'm a styled boxl
+          </div>
+    </body>
+</html>
+
+
+What is a Selector in CSS?
+
+A selector is used to target HTML elements so you can apply styles to them
+
+
+
+
 
   
  
