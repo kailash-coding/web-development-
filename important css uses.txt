@@ -87,8 +87,14 @@ Group                       h1, h2, h3,               all <h1>, <h2>, and <h3>
 
 Descendant                  div p                     all<p> inside <div> 
 
-Child                     
+Child                      div> p                 all <p> directly inside <div>
 
-Adjacent
+Adjacent                  h1 + p                   <p> immediately after <h1>
 
-Attribute
+Attribute                input[type="text"]       all <input> with type="type"
+
+pseudo-class             a:hover                 <a> elements whenn hovered
+
+pseudo-element           p::first-line           first line os each <p>
+
+
