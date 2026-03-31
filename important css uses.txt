@@ -71,14 +71,24 @@ What is a Selector in CSS?
 
 A selector is used to target HTML elements so you can apply styles to them
 
+Common CSS Selectors
 
+Selector Type                Example                  What it selects
 
+Universal                     *                      all elements
 
+Element                      p, h1, div               all<p> , <h2>   or <div> tags       
 
-  
- 
+Class                      .myclass                  all elements with class "myclass"
 
+ID                          #myid                    the oneelement with id "myid"
 
+Group                       h1, h2, h3,               all <h1>, <h2>, and <h3>
 
+Descendant                  div p                     all<p> inside <div> 
 
+Child                     
 
+Adjacent
+
+Attribute
