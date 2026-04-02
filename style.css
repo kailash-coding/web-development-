@@ -1,25 +1,20 @@
-*{    /* body */
-    margin: 0;
-    padding: 0;
+h1{
+    /* color: brown;
+    background-color: green;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red; */
+     font-size: 'times new roman' curive;
 }
 
-#box2{
-    padding-bottom: 50px;
-    
-}
-div{
-    border: 20px solid #17962c;
-    padding: 20px 15px 20px 15px ;
-    /* padding-top: 20px;
-    padding-right: 15px;
-    padding-bottom: 20px;
-    padding-left: 15px; */
-    margin: 10px 8px 10px 8px;
-    /* margin-top: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    */
-    width: 250px;
-    height: 250px;
+p{
+    /* text-align: justify;
+    text-indent: 80px;
+    text-align: justify;
+    text-indent: 80px;
+    line-height: 1.2rem;
+    word-spacing: 10px;
+    color: transparent;*/
+    text-shadow: 3px 3px 1px red;
+ 
 }
