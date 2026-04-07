@@ -1,33 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
 .container{
-    /* width: 400px;
-    height: 400px;
-    border: 1px solid red;
+    border: 2px solid rgb(221, 236, 81);
+    display: grid;
+    /* gap:10px; */
+    row-gap: 18px;
+    column-gap: 6px;
 
-
-    /* overflow: hidden;
-    overflow: visible;
-    overflow: scroll; */
-    /* overflow: auto; */
-
-
-    text-align: justify; 
-
- 
-}
-.subconcainer{
-    /* height: 40vh; */
-    overflow: auto;
+    grid-template-columns: 25vw 200px 400px;
 
 }
-.img{
-    float: right;
-}
-.img{
-    float: left;
-}
-.p1{
-    clear: right;
-}
-.p2{
-    clear: both;
-}
+.box{
+    border: 2px solid green;
+    padding: 12px;
+ }
