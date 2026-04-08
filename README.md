@@ -21,6 +21,6 @@ web project web development in persevex
   1 project        done
   2 project        done
   3 project        done
-  4 lacture        done
+  4 project        done
   
   
