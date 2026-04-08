@@ -20,7 +20,7 @@ couse web development in persevex
 web project web development in persevex
   1 project        done
   2 project        done
-  3 lacture        done
+  3 project        done
   4 lacture        done
   
   
