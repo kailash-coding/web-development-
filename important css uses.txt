@@ -66,6 +66,7 @@ div {
 </html>
 
 
+
 What is a Selector in CSS?
 
 A selector is used to target HTML elements so you can apply styles to them
