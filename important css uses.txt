@@ -13,14 +13,12 @@ p{
 }  
 
 
-
 2 colors
 /* background and text colors */
 div {
     co;or: white;      /* text color */
     background: black ;   /* background color */
 }
-
 
 
 3 borders
@@ -39,6 +37,7 @@ div {
     }
 
 '
+
  *  example in context (internal css)
  <! DOCTYPE html>
    <html>
