@@ -12,6 +12,6 @@ specificity decides which css rule wins when multiple rules apply to the same el
   =>  id > class > element 
   => inline style beat all ( unless overridden by limportant)
   => avoid using too many ID selectors - classes are more flexible
-  => keep specificity low for easier overrides
+  => keep specificity low for easier overides
 
    
