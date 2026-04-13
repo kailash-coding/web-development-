@@ -1,1 +1,10 @@
+specificity decides which css rule wins when multiple rules apply to the same element 
 
+* specificity scire sytem 
+           selector type                   score 
+       inline styles                     1000
+      id selectors                       100
+      class/attr/pseudo-class            10
+     element/pseudo-element              1
+     universal                           0
+   
