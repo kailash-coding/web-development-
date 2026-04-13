@@ -7,4 +7,11 @@ specificity decides which css rule wins when multiple rules apply to the same el
       class/attr/pseudo-class            10
      element/pseudo-element              1
      universal                           0
+
+* quick tips
+  =>  id > class > element 
+  => inline style beat all ( unless overridden by limportant)
+  => avoid using too many ID selectors - classes are more flexible
+  => keep specificity low for easier overrides
+
    
