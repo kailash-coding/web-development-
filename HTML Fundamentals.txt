@@ -20,7 +20,6 @@
  <body> : contains the visible content
 
 
-
 list of html tags
 
 * basic structure
@@ -132,9 +131,6 @@ other useful tags
 <template>             template for client-side content
 <progress>             progress bar
 <meter>                scalar measurement (e.g., disk usage)
-
-
-
 
 
 EMMBEDDING OTHER MEDIA INTO HTML PAGES
