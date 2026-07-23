@@ -5,6 +5,7 @@ CSS( cascading style sheets ) is a language used to style an d layout HTML eleme
 
   1. inline css - style applied directly on an HTML element
 
+
   html 
   copyedit
  <p style="color: red; font-weight:bold:'> this is red and bold, </p>
